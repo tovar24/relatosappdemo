@@ -1,5 +1,7 @@
 <?php 
 
+	//Esta linea esta cambiada por Aitor Vicent Cuadrado Alias Joaiser
+
 	// establecer la caducidad de la caché a 0 minutos para poder trabajar con variables de sesión
 	session_cache_expire(0);
 	
