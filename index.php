@@ -2,6 +2,8 @@
 
 	//Esta linea esta cambiada por Aitor Vicent Cuadrado Alias Joaiser
 
+	//cambio 2, ahora trabajamos con ver, codigo fuente, una pestaña de arriba
+
 	// establecer la caducidad de la caché a 0 minutos para poder trabajar con variables de sesión
 	session_cache_expire(0);
 	
